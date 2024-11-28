@@ -1,0 +1,5 @@
+# Ignore celebs fold
+post-processed-celebs/
+
+# Ignore database
+full_database.db
